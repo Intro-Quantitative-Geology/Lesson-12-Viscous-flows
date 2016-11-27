@@ -1,11 +1,11 @@
 # Lesson 12: Viscous flows
 This week we will be introduced to the equations that govern the flow of viscous materials.
 At depths greater than those where rocks deform in a brittle manner, crustal and mantle rocks can be treated as viscous fluids with very high viscosities.
-Ice also behaves as a viscous fluid in glaciers, which will be further explored in [this week's exercise]().
+Ice also behaves as a viscous fluid in glaciers, which will be further explored in [this week's exercise](https://classroom.github.com/assignment-invitations/29d26ef91b5e89b0cb3b6abf741e2c17).
 Like the previous two weeks, we will start with a [short lecture](Lesson/Rock-and-ice-as-viscous-materials.pdf) about the equations of viscous flow and its application to modelling river erosion.
 There are also [some notes](Lesson/Viscous-flow-down-an-incline.pdf) posted for how to solve the advection-diffusion equation.
 These are not required reading, but may be of interest for the exercise this week.
-As usual we will finish with the [exercise for this week]().
+As usual we will finish with the [exercise for this week](https://classroom.github.com/assignment-invitations/29d26ef91b5e89b0cb3b6abf741e2c17).
 
 ## Lesson overview
 
@@ -15,7 +15,7 @@ As usual we will finish with the [exercise for this week]().
 4. [Background and theory for Exercise 12, problem 2](Lesson/Exercise-12-theory-2.md)
 5. [Notes on viscous flow down an incline](Lesson/Viscous-flow-down-an-incline.pdf)
 6. [Connecting to the cloud computers from D211](Lesson/connecting-to-cloud.md)
-7. [Exercise 12: Viscous flow of ice]()
+7. [Exercise 12: Viscous flow of ice](https://classroom.github.com/assignment-invitations/29d26ef91b5e89b0cb3b6abf741e2c17)
 8. [Hints for Exercise 12](Lesson/hints.md)
 
 ## Resources
