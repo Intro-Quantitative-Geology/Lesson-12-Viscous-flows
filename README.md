@@ -11,10 +11,12 @@ As usual we will finish with the [exercise for this week]().
 
 1. [Lecture slides on Rocks and Ice as Viscous Materials](Lesson/Rock-and-ice-as-viscous-materials.pdf)
 2. [*Optional reading*: Gemmer et al., 2004 - Modelling salt tectonics](https://dx.doi.org/10.1111/j.1365-2117.2004.00229.x)
-2. [Notes on viscous flow down an incline](Lesson/Viscous-flow-down-an-incline.pdf)
-3. [Connecting to the cloud computers from D211](Lesson/connecting-to-cloud.md)
-4. [Exercise 12: Viscous flow of ice]()
-5. [Hints for Exercise 12](Lesson/hints.md)
+3. [Background and theory for Exercise 12, problem 1](Lesson/Exercise-12-theory-1.md)
+4. [Background and theory for Exercise 12, problem 2](Lesson/Exercise-12-theory-2.md)
+5. [Notes on viscous flow down an incline](Lesson/Viscous-flow-down-an-incline.pdf)
+6. [Connecting to the cloud computers from D211](Lesson/connecting-to-cloud.md)
+7. [Exercise 12: Viscous flow of ice]()
+8. [Hints for Exercise 12](Lesson/hints.md)
 
 ## Resources
 - Past lesson materials
