@@ -2,16 +2,16 @@
 This week we will be introduced to the equations that govern the flow of viscous materials.
 At depths greater than those where rocks deform in a brittle manner, crustal and mantle rocks can be treated as viscous fluids with very high viscosities.
 Ice also behaves as a viscous fluid in glaciers, which will be further explored in [this week's exercise]().
-Like the previous two weeks, we will start with a [short lecture]() about the equations of viscous flow and its application to modelling river erosion.
-There are also [some notes]() posted for how to solve the advection-diffusion equation.
+Like the previous two weeks, we will start with a [short lecture](Lesson/Rock-and-ice-as-viscous-materials.pdf) about the equations of viscous flow and its application to modelling river erosion.
+There are also [some notes](Lesson/Viscous-flow-down-an-incline.pdf) posted for how to solve the advection-diffusion equation.
 These are not required reading, but may be of interest for the exercise this week.
 As usual we will finish with the [exercise for this week]().
 
 ## Lesson overview
 
-1. [Lecture slides on Rocks and Ice as Viscous Materials](Lesson/)
+1. [Lecture slides on Rocks and Ice as Viscous Materials](Lesson/Rock-and-ice-as-viscous-materials.pdf)
 2. [*Optional reading*: Gemmer et al., 2004 - Modelling salt tectonics](https://dx.doi.org/10.1111/j.1365-2117.2004.00229.x)
-2. [Notes on viscous flow down an incline](Lesson/)
+2. [Notes on viscous flow down an incline](Lesson/Viscous-flow-down-an-incline.pdf)
 3. [Connecting to the cloud computers from D211](Lesson/connecting-to-cloud.md)
 4. [Exercise 12: Viscous flow of ice]()
 5. [Hints for Exercise 12](Lesson/hints.md)
